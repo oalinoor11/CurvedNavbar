@@ -64,7 +64,7 @@ class CurvedNavBar extends StatefulWidget {
 
 class _CurvedNavBarState extends State<CurvedNavBar> {
   /// index of selected nav bar
-  int selectedIndex = 0;
+  int selectedIndex = 1;
 
   /// true when [actionButton] is selected
   bool isCentreSelected = false;
